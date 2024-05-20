@@ -1,0 +1,1 @@
+CREATE TABLE t_product (id SERIAL PRIMARY KEY, name VARCHAR(255));
